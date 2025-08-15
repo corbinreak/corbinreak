@@ -1,15 +1,17 @@
 # Hi there 👋
 
-## 🔭 I’m currently working on ...
--   **TripBookr(Expedia type clone)**
--   **Weather App**
+## 🔭 Currently Working On
+- **TripBookr** – An Expedia-style travel booking clone
+- **Weather App** – Real-time weather forecasts with location-based search
 
-## 🌱 I’m currently learning ...
-- **Full Stack Engineering || With interest in software devolopment.**
-- - - I am also working on getting my Bachelors Degree in Computer Science. I have an estimated graduation of May 2029, I am shooting to complete it within 2 years instead though.
-      
-## Known Langueges/Familiarity ##
--**NODE.JS, REACT, REACT NATIVE, NEXT.JS, TYPESCRIPT, TAILWIND, HTML5, CSS3, ES6.**
+## 🌱 Currently Learning
+- Full Stack Engineering, with a strong interest in software development
+- Pursuing my **Bachelor’s Degree in Computer Science** (expected May 2029, aiming to finish in 2 years!)
+
+## 💻 Languages & Technologies
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** Node.js, React, React Native, Next.js, Tailwind CSS
+
 <!--
 **corbinreak/corbinreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
