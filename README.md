@@ -1,14 +1,15 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on ...
--   **An E-Commerce-Store**
+-   **TripBookr(Expedia type clone)**
 -   **Weather App**
 
 ## 🌱 I’m currently learning ...
 - **Full Stack Engineering || With interest in software devolopment.**
 - - - I am also working on getting my Bachelors Degree in Computer Science. I have an estimated graduation of May 2029, I am shooting to complete it within 2 years instead though.
       
-
+## Known Langueges/Familiarity ##
+-** NODE.JS, REACT, REACT NATIVE, NEXT.JS, TYPESCRIPT, TAILWIND, HTML5, CSS3, ES6.
 <!--
 **corbinreak/corbinreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
